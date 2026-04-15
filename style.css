@@ -1,5 +1,7 @@
 header {
   text-align: center;
-  background-color: #e7faff;
-  
+  .ombre-bg {
+  background: linear-gradient(to right, #e7faff, #FFE6E6);
+}
+
 }
